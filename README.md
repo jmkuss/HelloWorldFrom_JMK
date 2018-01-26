@@ -1,1 +1,1 @@
-# hello-world from J.M. Kuss !
+hello-world from J.M. Kuss !
