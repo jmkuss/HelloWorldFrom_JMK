@@ -1,1 +1,3 @@
-hello-world from J.M. Kuss !
+Hello-world from J.M. Kuss !
+
+For my resume see file: 
